@@ -11,8 +11,9 @@ Use this website to learn more about Horiseon Marketing Agency. Need help with m
 <img src="Develop/assets/images/Screen Shot 1.png">
 <img src="Develop/assets/images/Screen Shot 2.png">
 <img src="Develop/assets/images/Screen Shot 3.png">
+
 ## Credit 
-This code as refactored by https://github.com/angeeg.
+This code was refactored by https://github.com/angeeg.
 
 ## Questions
 If you have any questions or run into any issues with the website please contact https://github.com/angeeg.
